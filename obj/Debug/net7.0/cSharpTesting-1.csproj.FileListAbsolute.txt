@@ -1,0 +1,14 @@
+C:\Users\Joss Nockolds\OneDrive\Documents\Repos\C#\cSharpTesting-1\bin\Debug\net7.0\cSharpTesting-1.exe
+C:\Users\Joss Nockolds\OneDrive\Documents\Repos\C#\cSharpTesting-1\bin\Debug\net7.0\cSharpTesting-1.deps.json
+C:\Users\Joss Nockolds\OneDrive\Documents\Repos\C#\cSharpTesting-1\bin\Debug\net7.0\cSharpTesting-1.runtimeconfig.json
+C:\Users\Joss Nockolds\OneDrive\Documents\Repos\C#\cSharpTesting-1\bin\Debug\net7.0\cSharpTesting-1.dll
+C:\Users\Joss Nockolds\OneDrive\Documents\Repos\C#\cSharpTesting-1\bin\Debug\net7.0\cSharpTesting-1.pdb
+C:\Users\Joss Nockolds\OneDrive\Documents\Repos\C#\cSharpTesting-1\obj\Debug\net7.0\cSharpTesting-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joss Nockolds\OneDrive\Documents\Repos\C#\cSharpTesting-1\obj\Debug\net7.0\cSharpTesting-1.AssemblyInfoInputs.cache
+C:\Users\Joss Nockolds\OneDrive\Documents\Repos\C#\cSharpTesting-1\obj\Debug\net7.0\cSharpTesting-1.AssemblyInfo.cs
+C:\Users\Joss Nockolds\OneDrive\Documents\Repos\C#\cSharpTesting-1\obj\Debug\net7.0\cSharpTesting-1.csproj.CoreCompileInputs.cache
+C:\Users\Joss Nockolds\OneDrive\Documents\Repos\C#\cSharpTesting-1\obj\Debug\net7.0\cSharpTesting-1.dll
+C:\Users\Joss Nockolds\OneDrive\Documents\Repos\C#\cSharpTesting-1\obj\Debug\net7.0\refint\cSharpTesting-1.dll
+C:\Users\Joss Nockolds\OneDrive\Documents\Repos\C#\cSharpTesting-1\obj\Debug\net7.0\cSharpTesting-1.pdb
+C:\Users\Joss Nockolds\OneDrive\Documents\Repos\C#\cSharpTesting-1\obj\Debug\net7.0\cSharpTesting-1.genruntimeconfig.cache
+C:\Users\Joss Nockolds\OneDrive\Documents\Repos\C#\cSharpTesting-1\obj\Debug\net7.0\ref\cSharpTesting-1.dll
